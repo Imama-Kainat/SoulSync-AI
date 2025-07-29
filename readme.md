@@ -1,7 +1,4 @@
 
----
-
-````markdown
 # 💖 SoulSync – Your AI-Powered Emotional Journal
 
 **Built with heart**, SoulSync is a web-based journaling app where users connect with their *Future Self*.  
@@ -75,7 +72,6 @@ VITE_SPOTIFY_CLIENT_ID=your_spotify_client_id
 VITE_SPOTIFY_CLIENT_SECRET=your_spotify_secret
 ```
 
----
 
 ## 🌍 Why It Matters
 
@@ -83,9 +79,7 @@ VITE_SPOTIFY_CLIENT_SECRET=your_spotify_secret
 > SoulSync isn’t just another AI app. It’s a soft space in the chaos.
 > A place where Gen Z minds can breathe, feel heard, and reflect — with tech that listens and sings.
 
----
 
----
 
 > 🪄 **Made with 💖 for the CS Girlies Hackathon**
 > For the dreamers, builders, and future changemakers.
