@@ -1,6 +1,10 @@
 
 # 💖 SoulSync – Your AI-Powered Emotional Journal
 
+<p align="center">
+  <img src="" alt="SOULSYNC.JPG" width="100%"/> 
+</p>
+
 **Built with heart**, SoulSync is a web-based journaling app where users connect with their *Future Self*.  
 It uses the power of **Generative AI + Emotion Detection + Music** to turn thoughts into a comforting, creative, and healing experience.
 
