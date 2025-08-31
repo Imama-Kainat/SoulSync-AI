@@ -23,6 +23,10 @@ Every entry you write is gently analyzed for mood. Based on your words and perso
 
 ---
 
+<p align="center">
+  <img src="soulsync 2.JPG" alt="SOUL SYNC.JPG" width="100%"/> 
+</p>
+
 ## 💻 Built With
 - **Frontend**: React, Tailwind CSS, TypeScript, Vite
 - **AI/LLM**: Groq API (Gemma2-9b-it) via Supabase Edge Functions
